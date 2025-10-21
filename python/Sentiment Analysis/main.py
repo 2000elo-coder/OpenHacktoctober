@@ -9,7 +9,7 @@ datecheck={}
 temp={}
 tot=0
 pos=0
-neg=0;
+neg=0
 
 f=open('inpu.txt','r')     # opens a txt file which contains chat
 #print(f.read())
